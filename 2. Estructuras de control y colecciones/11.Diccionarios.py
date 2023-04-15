@@ -1,4 +1,4 @@
-# DICCIONARIOS => contiene clave y valor
+# DICCIONARIOS => contiene clave y valor, son como los arrays asociativos
 
 # Definir diccionario
 # definimos su clave(indice) y su valor
